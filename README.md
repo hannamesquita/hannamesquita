@@ -1,6 +1,12 @@
-Hello there!
-Me chamo Hanna Mesquita, sou estudante de Engenharia de Software na Universidade Federal do Amazonas. Atualmente (2026/1) estou no terceiro período, e estou muito empolgada com o curso. Sou estagiária na área de análise de dados na empresa Bemol.
-Tenho muito vontade de aprender e estou sempre disposta a ouvir sugestões para meu desenvolvimento pessoal. 
-Gosto muito de usar C e GoLang, e usarei alguns repostórios para guardar os exercícios que tenho feito em sala de aula.
-No mais, espero que o futuro me guarde boas experiências nessa jornada.
-Para me contatar, enviar e-mail para: contatohannis@outlook.com
+# Olá, eu sou a Hanna Mesquita! 👋
+
+Sou estudante de tecnologia e apaixonada por resolver problemas através do código. 
+
+### 💻 Sobre mim
+- 🎓 Graduanda em **Engenharia de Software** pela **Universidade Federal do Amazonas (UFAM)**.
+- 💼 Atualmente atuo como estagiária no escritório da **Bemol**, onde aprendo e aplico meus conhecimentos em Análise de Dados
+ Sempre em busca de novos conhecimentos, aprimorando minhas habilidades em desenvolvimento de software e boas práticas.
+
+### 📫 Como me encontrar
+- **LinkedIn:** https://linkedin.com/in/hanna-s-de-mesquita-da-matta
+- **E-mail:** contatohannis@outlook.com
