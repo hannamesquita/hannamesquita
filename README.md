@@ -5,5 +5,5 @@
   Estou empre em busca de novos conhecimentos, aprimorando minhas habilidades em desenvolvimento de software e boas práticas.
 
 ### 📫 Como me encontrar
-- **LinkedIn:** https://linkedin.com/in/hanna-s-de-mesquita-da-matta
+- **LinkedIn:** https://linkedin.com/in/hanna-mesquita-092258206
 - **E-mail:** contatohannis@outlook.com
